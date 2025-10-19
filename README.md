@@ -13,4 +13,4 @@ New columns added in Python code([link to file]) for improved analysis:
 - **DayOfWeek** - for weekly performance trends
 
 
-**Click for detailed analysis & insights** [ https://lookerstudio.google.com/reporting/323fbfc5-ed9c-4eb8-81ff-72966199c084](https://lookerstudio.google.com/reporting/323fbfc5-ed9c-4eb8-81ff-72966199c084)
+[Click for detailed analysis & insights](https://lookerstudio.google.com/reporting/323fbfc5-ed9c-4eb8-81ff-72966199c084)
