@@ -1,9 +1,11 @@
-# Retail-Sales-Dataset
+# Supermarket Sales Dataset
 
 ## Project Goal
 
-* Conduct a comprehensive analysis of sales and customer behavior.
+1. Understand customer behavior - who buys, when, how they pay
+2. Identify most profitable segments - cities, categories, customer types
+3. Optimize operations - when to staff up, which days are weak
+4. Increase revenue - through membership, cross-sales, proper promotion timing
 
-* Identify trends, patterns, and customer segments that generate the highest revenue.
 
-* Provide recommendations for marketing, sales, and product strategy.
+**Click for detailed analysis & insights** [ https://lookerstudio.google.com/reporting/323fbfc5-ed9c-4eb8-81ff-72966199c084](https://lookerstudio.google.com/reporting/323fbfc5-ed9c-4eb8-81ff-72966199c084)
