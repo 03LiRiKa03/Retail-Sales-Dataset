@@ -1,4 +1,4 @@
-# Supermarket Sales Dataset
+# Supermarket Sales Analysis
 
 ## Project Goal
 
