@@ -8,7 +8,7 @@
 4. Increase revenue - through membership, cross-sales, proper promotion timing
 
 
-New columns added in Python code([link to file]) for improved analysis:
+New columns added in [Python code](https://github.com/03LiRiKa03/Retail-Sales-Dataset/blob/main/coding.py) for improved analysis:
 - **Hour** - for hourly sales patterns
 - **DayOfWeek** - for weekly performance trends
 
